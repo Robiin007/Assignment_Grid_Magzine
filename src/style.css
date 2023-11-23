@@ -1,0 +1,9 @@
+#item-1 {
+    border: 1px solid black;
+    display: inline-block;
+}
+
+#item-2 {
+    border: 1px solid red;
+    display: inline-block;
+}
